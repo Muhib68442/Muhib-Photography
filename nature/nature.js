@@ -1,7 +1,6 @@
 
-// Disabled Because didn't find beauty in caption :! // {disabled from index.html}
+/* 1-9 */
 
-//Page : 1/6 Image 1-10 
 function natureimg1(){
     $(".natureimg1").slideToggle(300);
 }
@@ -29,10 +28,7 @@ function natureimg8(){
 function natureimg9(){
     $(".natureimg9").slideToggle(300);
 }
-function natureimg10(){
-    $(".natureimg10").slideToggle(300);
-}
-//Page : 2/6 Image 11-20
+/* 11-19 */
 function natureimg11(){
     $(".natureimg11").slideToggle(300);
 }
@@ -60,10 +56,8 @@ function natureimg18(){
 function natureimg19(){
     $(".natureimg19").slideToggle(300);
 }
-function natureimg20(){
-    $(".natureimg20").slideToggle(300);
-}
-//Page : 3/6 Image 21-30
+
+/* 21-29 */
 function natureimg21(){
     $(".natureimg21").slideToggle(300);
 }
@@ -91,10 +85,7 @@ function natureimg28(){
 function natureimg29(){
     $(".natureimg29").slideToggle(300);
 }
-function natureimg30(){
-    $(".natureimg30").slideToggle(300);
-}
-//Page : 4/6 Image 31-40
+/* 31-39 */
 function natureimg31(){
     $(".natureimg31").slideToggle(300);
 }
@@ -122,10 +113,7 @@ function natureimg38(){
 function natureimg39(){
     $(".natureimg39").slideToggle(300);
 }
-function natureimg40(){
-    $(".natureimg30").slideToggle(300);
-}
-//Page : 5/6 Image 41-50
+/* 41-49 */
 function natureimg41(){
     $(".natureimg41").slideToggle(300);
 }
@@ -151,12 +139,9 @@ function natureimg48(){
     $(".natureimg48").slideToggle(300);
 }
 function natureimg49(){
-    $(".natureimg59").slideToggle(300);
+    $(".natureimg49").slideToggle(300);
 }
-function natureimg50(){
-    $(".natureimg50").slideToggle(300);
-}
-//Page : 6/6 Image 51-60
+/* 51-59 */
 function natureimg51(){
     $(".natureimg51").slideToggle(300);
 }
@@ -187,3 +172,116 @@ function natureimg59(){
 function natureimg60(){
     $(".natureimg50").slideToggle(300);
 }
+/* 61-69 */
+function natureimg61(){
+    $(".natureimg61").slideToggle(300);
+}
+function natureimg62(){
+    $(".natureimg62").slideToggle(300);
+}
+function natureimg63(){
+    $(".natureimg63").slideToggle(300);
+}
+function natureimg64(){
+    $(".natureimg64").slideToggle(300);
+}
+function natureimg65(){
+    $(".natureimg65").slideToggle(300);
+}
+function natureimg66(){
+    $(".natureimg66").slideToggle(300);
+}
+function natureimg67(){
+    $(".natureimg67").slideToggle(300);
+}
+function natureimg68(){
+    $(".natureimg68").slideToggle(300);
+}
+function natureimg69(){
+    $(".natureimg69").slideToggle(300);
+}
+/* 71-79 */
+function natureimg71(){
+    $(".natureimg71").slideToggle(300);
+}
+function natureimg72(){
+    $(".natureimg72").slideToggle(300);
+}
+function natureimg73(){
+    $(".natureimg73").slideToggle(300);
+}
+function natureimg74(){
+    $(".natureimg74").slideToggle(300);
+}
+function natureimg75(){
+    $(".natureimg75").slideToggle(300);
+}
+function natureimg76(){
+    $(".natureimg76").slideToggle(300);
+}
+function natureimg77(){
+    $(".natureimg77").slideToggle(300);
+}
+function natureimg78(){
+    $(".natureimg78").slideToggle(300);
+}
+function natureimg79(){
+    $(".natureimg79").slideToggle(300);
+}
+/* 81-89 */
+function natureimg81(){
+    $(".natureimg81").slideToggle(300);
+}
+function natureimg82(){
+    $(".natureimg82").slideToggle(300);
+}
+function natureimg83(){
+    $(".natureimg83").slideToggle(300);
+}
+function natureimg84(){
+    $(".natureimg84").slideToggle(300);
+}
+function natureimg85(){
+    $(".natureimg85").slideToggle(300);
+}
+function natureimg86(){
+    $(".natureimg86").slideToggle(300);
+}
+function natureimg87(){
+    $(".natureimg87").slideToggle(300);
+}
+function natureimg88(){
+    $(".natureimg88").slideToggle(300);
+}
+function natureimg89(){
+    $(".natureimg89").slideToggle(300);
+}
+/* 91-99 */
+function natureimg91(){
+    $(".natureimg91").slideToggle(300);
+}
+function natureimg92(){
+    $(".natureimg92").slideToggle(300);
+}
+function natureimg93(){
+    $(".natureimg93").slideToggle(300);
+}
+function natureimg94(){
+    $(".natureimg94").slideToggle(300);
+}
+function natureimg95(){
+    $(".natureimg95").slideToggle(300);
+}
+function natureimg96(){
+    $(".natureimg96").slideToggle(300);
+}
+function natureimg97(){
+    $(".natureimg97").slideToggle(300);
+}
+function natureimg98(){
+    $(".natureimg98").slideToggle(300);
+}
+function natureimg99(){
+    $(".natureimg99").slideToggle(300);
+}
+
