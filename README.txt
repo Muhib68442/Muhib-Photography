@@ -1,16 +1,11 @@
-			/*----------------------------------Welcome Here------------------------------------*/
+// Muhib-Photography
+version : 4.1.1
+Status : Static 
+Last Updated : 30/4/2022
+Used : HTML, CSS, Bootstrap, JS, jQuery
+Created by : Md. Muhibbur Rahman 
 
-	// Muhib-Photography
- 
-I Love Photography 📷, and I also love coding 💻. So, I created a site of my own about my photography. Hope you like that html site. 🥰
-
-If you like then try to contact me, my information is somewhere in the site.😀
-
-<!--  Please forgive any kind of glitch or mis-allignment 😑, i am not that advance programmer !. And bad english too 😅   -->
-
-site last updated : 10/10/2022-- v4.1.1
-
-					--Thanks in Advance ❤
-
-										Md. Muhibbur Rahman
-										------------------------------
+◼ Contact Me : 
+E-Mail : muhib2929@gmail.com
+Phone : +880 1717 109550
+Facebook : facebook.com/m.muhib.68442
